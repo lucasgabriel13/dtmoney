@@ -4,6 +4,14 @@
 
 Projeto desenvolvido durante o Ignite na trilha de React.js promovido pela Rocketseat. Esse projeto tem como objetivo realizar uma pequena gestão das receitas e desepesas de um usuário, demonstrando todo os seus gastos e receitas em uma painel.
 
+## ✨ Tecnologias
+ - React.js
+ - Typescript
+ - Context Api
+ - State
+ - Hooks
+ - Axios
+
 ## 🚀 Como executar
 
 Após realizar o projeto e abrir a pasta do projeto em seu terminal, execute:
@@ -22,17 +30,3 @@ yarn start
 
 O projeto estará disponível no seu navegador pelo endereço:
  [http://localhost:3000](http://localhost:3000)
-
-## ✨ Tecnologias
- - React.js
- - Typescript
- - Context Api
- - State
- - Hooks
- - Axios
-
-## ⚛️ Sobre React.js
-
-Documentação referente ao create-react-app [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-Documentação do React.js [React documentation](https://reactjs.org/).
