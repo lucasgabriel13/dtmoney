@@ -7,6 +7,7 @@ Projeto desenvolvido durante o Ignite na trilha de React.js promovido pela Rocke
 ## ✨ Tecnologias
  - React.js
  - Typescript
+ - Mirage.js
  - Context Api
  - State
  - Hooks
