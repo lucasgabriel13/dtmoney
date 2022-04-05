@@ -15,7 +15,7 @@ Projeto desenvolvido durante o Ignite na trilha de React.js promovido pela Rocke
 
 ## 🚀 Como executar
 
-Após realizar o projeto e abrir a pasta do projeto em seu terminal, execute:
+Após realizar o clone do projeto e abrir a pasta do projeto em seu terminal, execute:
 
 Para instalar as dependências:
 
